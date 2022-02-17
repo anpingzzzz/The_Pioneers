@@ -1,13 +1,9 @@
-# Code for “Optimising Self-Organised Volunteer Efforts in Response to the COVID-19 Pandemic”
+# Data and Code for “Optimising Self-Organised Volunteer Efforts in Response to the COVID-19 Pandemic”
 ## Authors: Anping Zhang1†,Ke Zhang1†, Wanda Li1, Yue Wang2,Yang Li1∗, Lin Zhang1
-
-Thank you for your attention to our work.
-
-#### unzip data file first  
 
 ## NCE computation: Compute self-organisational intervals on Shenzhen’s data
 ### Note:
-1.	O_NCE.csv. T_NCE.csv and P_NCE.csv are pre-computed NCEs for Shenzhen and its district using data files “issuer_task_data.csv” and “issuer_user_data”.
+1.	O_NCE.csv. T_NCE.csv and P_NCE.csv are pre-computed NCEs for Shenzhen and its district using data files “issuer_task_data.csv” and “issuer_user_data” (In the zip file).
 2.	The “task label” column in organizer_task_data.csv represents the task type extracted from task descriptions using LDA. 
 a)	Label 1: Transportational Topic tasks; 
 b)	Label 2: volunteering topic tasks; 
