@@ -1,5 +1,4 @@
 # Data and Code for “Optimising Self-Organised Volunteer Efforts in Response to the COVID-19 Pandemic”
-## Authors: Anping Zhang1†,Ke Zhang1†, Wanda Li1, Yue Wang2,Yang Li1∗, Lin Zhang1
 
 ### NCE computation: Compute self-organisational intervals on Shenzhen’s data
 #### Note:
