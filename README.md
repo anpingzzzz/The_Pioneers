@@ -1,6 +1,6 @@
 # Data and Code for “Optimising Self-Organised Volunteer Efforts in Response to the COVID-19 Pandemic”
 
-'''
+```
 @article{zhang2022optimising,
   title={Optimising self-organised volunteer efforts in response to the COVID-19 pandemic},
   author={Zhang, Anping and Zhang, Ke and Li, Wanda and Wang, Yue and Li, Yang and Zhang, Lin},
@@ -11,7 +11,7 @@
   year={2022},
   publisher={Palgrave}
 }
-'''
+```
 
 ### NCE computation: Compute self-organisational intervals on Shenzhen’s data
 #### Note:
