@@ -1,5 +1,7 @@
 # Data and Code for “Optimising Self-Organised Volunteer Efforts in Response to the COVID-19 Pandemic”
 
+### Citation
+Please cite our paper if you find it is interesting.
 ```
 @article{zhang2022optimising,
   title={Optimising self-organised volunteer efforts in response to the COVID-19 pandemic},
