@@ -19,12 +19,12 @@ Please cite our paper if you find it is interesting.
 #### Note:
 1.	O_NCE.csv. T_NCE.csv and P_NCE.csv are pre-computed NCEs for Shenzhen and its district using data files “issuer_task_data.csv” and “issuer_user_data” (In the data.zip file).
 2.	The “task label” column in organizer_task_data.csv represents the task type extracted from task descriptions using LDA. 
-a)	Label 1: Transportational Topic tasks; 
-b)	Label 2: volunteering topic tasks; 
-c)	Label 3: Reopening Topic tasks;
-d)	Label 4: Educational topic tasks; 
-e)	Label 5: environmental topic tasks; 
-f)	Label 6: Covid-19 topic tasks.
+-	Label 1: Transportational Topic tasks; 
+-	Label 2: volunteering topic tasks; 
+-	Label 3: Reopening Topic tasks;
+-	Label 4: Educational topic tasks; 
+-	Label 5: environmental topic tasks; 
+-	Label 6: Covid-19 topic tasks.
 3.	“neigborhood_1.csv” and “neighborhood_2.csv” are data for case studies.
 
 #### To run:
